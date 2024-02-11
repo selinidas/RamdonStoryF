@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gender" translatable="false">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+
+    <string-array name="visibility" translatable="false">
+        <item>Public</item>
+        <item>Private</item>
+
+    </string-array>
+
+</resources>

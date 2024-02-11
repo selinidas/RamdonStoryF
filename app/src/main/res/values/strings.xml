@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Random Story</string>
+    <string name="hello_blank_fragment">Hola fragmento en blanco</string>
+
+    <string name="todo">TODO</string>
+    <string name="login">Log in</string>
+    <string name="email">Email</string>
+
+    <string name="password">Contraseña</string>
+    <string name="sample">GrowMore</string>
+    <string name="sampleParagraph">Los párrafos son los componentes básicos de los trabajos. Muchos estudiantes
+        definen los párrafos en términos de longitud: un párrafo es un grupo de al menos cinco frases, un
+        párrafo tiene media página, etc. En realidad, lo que constituye un párrafo es la unidad y coherencia de las ideas entre las frases.
+        entre las frases es lo que constituye un párrafo. Un párrafo se define como desmenuzar.</string>
+
+    <string name="forgot">¿Olvidaste la contraseña?</string>
+
+    <string name="dont_have_account">¿No tiene una cuenta?</string>
+
+    <string name="register">Registro</string>
+    <string name="Orloginwith">O</string>
+    <string name="username">Usuario</string>
+    <string name="chooseavatar">Escoge tu avatar</string>
+    <string name="reenterpassword">Confirmar contraseña</string>
+    <string name="gender">Seleccione su sexo</string>
+    <string name="forgetpassword">No recuerdo la contraseña</string>
+    <string name="submit">Enviar</string>
+    <string name="backtologin">Volver al login</string>
+    <string name="signup">Regístrate</string>
+
+
+    <!--INTRO SLIDE-->
+    <string name="next">Siguiente</string>
+    <string name="skip">Omitir</string>
+    <string name="start">Entendido</string>
+
+    <string name="slide_1_title">Las historias en todo el mundo</string>
+    <string name="slide_1_desc">Con Read Random Story Worldwide, puedes descubrir
+        nuevas y apasionantes historias de todo el mundo, en un solo lugar</string>
+
+    <string name="slide_2_title">Perfil anónimo</string>
+    <string name="slide_2_desc">¿Te da vergüenza compartir tus historias? Puedes simplemente
+        hacer tu perfil privado para que nadie pueda identificarte en la aplicación.</string>
+
+    <string name="slide_3_title">Comparte tus ideas</string>
+    <string name="slide_3_desc">Puedes compartir tus opiniones sobre otras historias mediante comentarios y también conocer la reacción de otros usuarios de la aplicación.</string>
+
+    <string name="title_activity_settings">Settings</string>
+</resources>
